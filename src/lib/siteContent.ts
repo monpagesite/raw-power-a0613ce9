@@ -207,7 +207,7 @@ export const siteContent = {
   footer: {
     tagline: "Train where serious people get serious results.",
     contact: {
-      phone: "+61 3 9876 5432",
+      phone: "7550298372",
       email: "hello@rawpowergym.com.au",
       address: "123 Industrial Drive, Collingwood VIC 3066",
     },
