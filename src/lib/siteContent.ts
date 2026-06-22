@@ -208,7 +208,7 @@ export const siteContent = {
     tagline: "Train where serious people get serious results.",
     contact: {
       phone: "7550298372",
-      email: "hello@rawpowergym.com.au",
+      email: "rawpower@gmail.com",
       address: "123 Industrial Drive, Collingwood VIC 3066",
     },
     hours: [
